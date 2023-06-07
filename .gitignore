@@ -1,1 +1,5 @@
 .idea/
+emaillabs.egg-info/
+build/
+dist/
+.mypy_cache/
